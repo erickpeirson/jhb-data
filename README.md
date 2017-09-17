@@ -11,7 +11,7 @@ Unless otherwise specified, data are comma-delimited. Missing values are left em
 
 Erick Peirson ([orcid:0000-0002-0564-9939](http://orcid.org/0000-0002-0564-9939))
 - Web: https://erickpeirson.github.io
-- Twitter: @undercaffeinatd
+- Twitter: [@undercaffeinatd](https://twitter.com/undercaffeinatd)
 
 
 ## License
