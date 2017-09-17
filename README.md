@@ -7,6 +7,15 @@ Data from the forthcoming paper:
 
 Unless otherwise specified, data are comma-delimited. Missing values are left empty.
 
+### Questions?
+
+Erick Peirson (orcid:0000-0002-0564-9939)
+Web: https://erickpeirson.github.io
+Twitter: @undercaffeinatd
+
+
+## License
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 ## Article metadata
