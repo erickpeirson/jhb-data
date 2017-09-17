@@ -119,7 +119,8 @@ Human-readable labels for entities in ``organisms.csv``. Taken from the
 > individual words, removing all punctuation, whitespace, and numeric characters.
 > Since many concepts of interest in JHB are represented by multi-word phrases,
 > we extracted two- to six-word phrases by applying (in three sequential passes)
-> the criterion where Nij is the number of occurrences of the bigram (word i
+> the criterion $\frac{N_{ij}-5}{N_i+N_j }>0.1N$ where Nij is the number of
+> occurrences of the bigram (word i
 > followed by word j), Ni is the total number of occurrences of word i, and N is
 > the total number of tokens in the whole corpus (Řehůřek and Sojka 2010). After
 > conjoining word-parts into phrases as described, we removed tokens of any
