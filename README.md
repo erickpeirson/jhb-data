@@ -9,7 +9,7 @@ Unless otherwise specified, data are comma-delimited. Missing values are left em
 
 ### Questions?
 
-Erick Peirson (orcid:0000-0002-0564-9939)
+Erick Peirson ([orcid:0000-0002-0564-9939](http://orcid.org/0000-0002-0564-9939))
 - Web: https://erickpeirson.github.io
 - Twitter: @undercaffeinatd
 
