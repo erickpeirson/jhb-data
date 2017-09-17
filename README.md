@@ -1,11 +1,15 @@
 # Data: Quantitative Perspectives on Fifty Years of the Journal of the History of Biology
 
+[![DOI](https://zenodo.org/badge/103768465.svg)](https://zenodo.org/badge/latestdoi/103768465)
+
 Data from the forthcoming paper:
 
-- Peirson, B. R. Erick, Erin Bottino, Julia L. Damerow, and Manfred D. Laubichler. 2017. Quantitative perspectives on fifty years of the
-*Journal of the History of Biology* 50(4).
+> Peirson, B. R. Erick, Erin Bottino, Julia L. Damerow, and Manfred D. Laubichler. 2017. Quantitative perspectives on fifty years of the *Journal of the History of Biology* 50(4).
 
 Unless otherwise specified, data are comma-delimited. Missing values are left empty.
+
+### How to Cite
+> Peirson, B. R. Erick, Erin Bottino, Julia L. Damerow, and Manfred D. Laubichler. 2017. Data: Quantitative Perspectives on Fifty Years of the Journal of the History of Biology (revision 1). https://github.com/erickpeirson/jhb-data/releases/tag/1.0. doi:10.5281/zenodo.893499
 
 ### Questions?
 
